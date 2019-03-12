@@ -1,0 +1,10 @@
+{
+  "name": "ssl-bug",
+  "version": "1.0.0",
+  "description": "Test ssl max retry issue in chrome",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
